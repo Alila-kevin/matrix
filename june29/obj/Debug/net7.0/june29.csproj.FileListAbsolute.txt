@@ -1,0 +1,15 @@
+D:\C#\june29\june29\bin\Debug\net7.0\june29.exe
+D:\C#\june29\june29\bin\Debug\net7.0\june29.deps.json
+D:\C#\june29\june29\bin\Debug\net7.0\june29.runtimeconfig.json
+D:\C#\june29\june29\bin\Debug\net7.0\june29.dll
+D:\C#\june29\june29\bin\Debug\net7.0\june29.pdb
+D:\C#\june29\june29\obj\Debug\net7.0\june29.csproj.AssemblyReference.cache
+D:\C#\june29\june29\obj\Debug\net7.0\june29.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\june29\june29\obj\Debug\net7.0\june29.AssemblyInfoInputs.cache
+D:\C#\june29\june29\obj\Debug\net7.0\june29.AssemblyInfo.cs
+D:\C#\june29\june29\obj\Debug\net7.0\june29.csproj.CoreCompileInputs.cache
+D:\C#\june29\june29\obj\Debug\net7.0\june29.dll
+D:\C#\june29\june29\obj\Debug\net7.0\refint\june29.dll
+D:\C#\june29\june29\obj\Debug\net7.0\june29.pdb
+D:\C#\june29\june29\obj\Debug\net7.0\june29.genruntimeconfig.cache
+D:\C#\june29\june29\obj\Debug\net7.0\ref\june29.dll
